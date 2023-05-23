@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there 👋 i'm Felipe Martínez Chalarca</h1>
+    <h3>I'm a software developer from Mexico</h3>
+</div>
+<!-- ### Hi there 👋 -->
 
 <!--
 **FelipeMtzCh/FelipeMtzCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
