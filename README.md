@@ -35,8 +35,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" heigth="45" width="45" />
-    <img src="" alt="" title="" heigth="45" width="45" />
-    <img src="" alt="" title="" heigth="45" width="45" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" title="Firebase" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React_JS" title="React" heigth="45" width="45" />
 </div>
 
