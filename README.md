@@ -38,6 +38,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" title="Firebase" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React_JS" title="React" heigth="45" width="45" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" heigth="45" width="45" />
+    <img src="https://pnpm.io/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="pnpm" title="pnpm" heigth="45" width="45" />
 </div>
 
 <!-- 
