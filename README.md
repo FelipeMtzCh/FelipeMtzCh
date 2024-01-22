@@ -16,11 +16,14 @@
     </a>
 </div>
 
+<div>
+    
+</div>
 ---
 
 ### 🙍🏾‍♂️ About me
 - 🔭 Road to **Fullstack developer** with MERN
-- 🌱 Student in **Coderhouse**
+- 🌱 I’m currently learning Angular and SQL
 - ⚡ Open to learn new things
 - 📫 You can contact me here **fmtzcha@gmail.com** 
  
@@ -39,7 +42,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" title="Firebase" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React_JS" title="React" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" heigth="45" width="45" />
-    <img src="https://pnpm.io/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="pnpm" title="pnpm" heigth="45" width="45" />
+    <img src="https://pnpm.io/es/img/pnpm-no-name-with-frame.svg" alt="pnpm" title="pnpm" heigth="45" width="45" />
 </div>
 
 <!-- 
