@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there 👋🏾 i'm Felipe Martínez Chalarca</h1>
+    <h1>Hi there 👋🏾 i'm Felipe Martínez</h1>
     <h3>
         A Front-end developer from Colombia, i like to learn new technologies, design interfaces and improve my skills every day
     </h3>
@@ -38,7 +38,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript" heigth="45" width="45"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" title="SASS" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" heigth="45" width="45" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" heigth="45" width="45" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" title="Firebase" heigth="45" width="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React_JS" title="React" heigth="45" width="45" />
